@@ -1,16 +1,25 @@
-# my_profile
+# My Profile
 
-A new Flutter project.
+#### System Requirements
+|Flutter SDK| 3.16.9                      |
+|:---|:----------------------------|
+| Xcode | 15.0.1                      |
+| Android Studio | Hedgehog - 2023.1.1 Patch 2 |
+| Android SDK | Android SDK version 34.0.0  |
+| Cocoapods | 1.14.3                      |
+| JDK | 11                          |
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#### Test Requirements
+[Link](https://drive.google.com/file/d/1RWX4llfmqPLb0vwhe5hxb6ekBtwBcJdF/view)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Demo Video 
+[Link](https://drive.google.com/file/d/1HJbE1RWujcWh5zU925QwBSuWp8VEnjJx/view?usp=sharing)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Setup Project
+1. Regenerate Assets `dart run build_runner build --delete-conflicting-outputs`
+
+#### Credentials
+Name : Pranil Shah
+Email : pranil.shah@aspiresoftserv.com
